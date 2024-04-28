@@ -1,14 +1,14 @@
 ### Hello, I am Joseph 👋
 ##Thanks for stopping by. Here's a little bit about myself...
-😄 My pronouns are: He/His/Him
-🔭 I’m currently working as a freelance data scientiest and building my YouTube channel. That means...
-👯 I'm always open for freelance gigs and contract based opportunitites
-💬 I'm looking to collaborate and create some cool content that we can share with the community
-🤘 You can find various data science projects on my profile
-🧑🏻‍🏫 I am currenly learning
-Exploring Azure Machine Learning and Generative AI
-How to deploy efficient AI models & systems
-📫 Here's how you can reach me: Twitter | LinkedIn
+<ul><li>😄 My pronouns are: He/His/Him</li>
+<ul><li>🔭 I’m currently working as a freelance data scientiest and building my YouTube channel. That means...</li>
+<li>👯 I'm always open for freelance gigs and contract based opportunitites</li>
+<li>💬 I'm looking to collaborate and create some cool content that we can share with the community</li>
+<li>🤘 You can find various data science projects on my profile</li></ul>
+<li>🧑🏻‍🏫 I am currenly learning</li>
+<ul><li>Exploring Azure Machine Learning and Generative AI</li>
+<li>How to deploy efficient AI models & systems</li></ul>
+<li>📫 Here's how you can reach me: Twitter | LinkedIn</li> </ul>
 
 <!--
 **JosephIhemefor/josephihemefor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
